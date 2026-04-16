@@ -8,7 +8,7 @@ body {
 }
 
 .header-title {
-  color: #ffffff;
+  font-color: #ffffff;
   font-family: 'Gill Sans', sans-serif;
   text-align: center;
   text-transform: uppercase;
